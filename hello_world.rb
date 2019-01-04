@@ -1,0 +1,1 @@
+puts hello_world.RUBY_VERSION
